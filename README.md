@@ -9,7 +9,7 @@
 - [通过城市来看网络社区的产品逻辑 （一）](https://github.com/adai-gu/adai/issues/16)
 
 - [关于陌生人社交的一些想法（基于 likely App）](https://github.com/adai-gu/adai/issues/14)
-- [音乐服务平台的一些想法）](https://github.com/adai-gu/adai/issues/13)
+- [音乐服务平台的一些想法](https://github.com/adai-gu/adai/issues/13)
 - [一些互联网汽车的想法（未进行调研，此处不考虑技术实现和相关合理性问题）](https://github.com/adai-gu/adai/issues/17)
 - [从产品运营的角度来看《想见你》这部剧）](https://github.com/adai-gu/adai/issues/12)
 - [亚马逊 App 交互设计与国内主流的电商产品有什么不一样的地方](https://github.com/adai-gu/adai/issues/11)
